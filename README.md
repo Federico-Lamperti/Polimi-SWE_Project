@@ -3,7 +3,7 @@
 
 Software version of the board game [**Eriantys**](https://www.craniocreations.it/prodotto/eriantys), released by [**Cranio Creations®**](https://www.craniocreations.it/)
 
-Developed by [@InfantinoAndrea00](https://www.github.com/InfantinoAndrea00), [@FedeLampe11](https://www.github.com/FedeLampe11), [@carloma7](https://www.github.com/carloma7)
+Developed by InfantinoAndrea Infantino, Federico Lamperti, Carlo Maggio
 ## Features implemented
 * Only runnable on Windows
 * Both simplified and complete rules
